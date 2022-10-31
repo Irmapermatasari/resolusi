@@ -1,0 +1,4 @@
+irma-resolusi
+-menampilkan resolusi
+-membaut platfrom resolusi
+-cmmbuat foru resolusi
