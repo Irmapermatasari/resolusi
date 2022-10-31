@@ -1,6 +1,5 @@
 irma-resolusi
 -menampilkan resolusi
 -membaut platfrom resolusi
--membuat foru resolusi
--membuat merch shop
 -kolaborasi dengan banyak expert
+-membuat vlogs
