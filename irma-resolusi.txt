@@ -3,3 +3,4 @@ irma-resolusi
 -membaut platfrom resolusi
 -kolaborasi dengan banyak expert
 -membuat vlogs
+-membuat latihan tugas
