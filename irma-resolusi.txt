@@ -1,7 +1,7 @@
 irma-resolusi
 -menampilkan resolusi
 -membaut platfrom resolusi
--kolaborasi dengan banyak expert
+-mengerjakan tugas pka
 -membuat vlogs
 -membuat latihan tugas
 *pka
