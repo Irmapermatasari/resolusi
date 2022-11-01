@@ -4,3 +4,5 @@ irma-resolusi
 -kolaborasi dengan banyak expert
 -membuat vlogs
 -membuat latihan tugas
+*pka
+*lka
