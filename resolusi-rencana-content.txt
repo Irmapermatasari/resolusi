@@ -1,5 +1,6 @@
 RENCANA KONTEN RESOLUSI
 
+-menambahkan anggular
 -Javascript
 -*ES6
 -fRAMEWROKS JAVASCRIPT
