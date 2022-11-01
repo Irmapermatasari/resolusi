@@ -1,6 +1,8 @@
 RENCANA KONTEN RESOLUSI
 
 -Javascript
+-*ES6
+-fRAMEWROKS JAVASCRIPT
 -php fareworks
 -Interview
 -Vlogs
